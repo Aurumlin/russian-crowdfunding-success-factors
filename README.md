@@ -2,7 +2,7 @@
 
 https://disk.yandex.ru/d/OW4IzxLVtf4ihQ - парсер
 
-https://github.com/Aurumlin/Russian-Crowdfunding/blob/main/Planeta.ipynb - перевод из формата json в xlsx
+https://github.com/Aurumlin/Russian-Crowdfunding/blob/main/Planeta.ipynb - обработка сырых данных, блок визуализаций
 
 https://github.com/Aurumlin/Russian-Crowdfunding/blob/main/outlier_cleaning.ipynb - очистка от выбросов
 
